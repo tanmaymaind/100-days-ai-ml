@@ -15,4 +15,4 @@ matplotlib, and scikit-learn along the way.
 
 | Day | Project | Topic |
 |-----|---------|-------|
-| 01 | Linear Regression from Scratch (in progress) | Supervised learning, gradient descent |
+| 01 | [Linear Regression from Scratch](day-01-linear-regression-from-scratch/) ✅ | Supervised learning, gradient descent |
