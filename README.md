@@ -16,3 +16,4 @@ matplotlib, and scikit-learn along the way.
 | Day | Project | Topic |
 |-----|---------|-------|
 | 01 | [Linear Regression from Scratch](day-01-linear-regression-from-scratch/) ✅ | Supervised learning, gradient descent |
+| 02 | [K-Means Clustering from Scratch](day-02-kmeans-clustering-from-scratch/) ✅ | Unsupervised learning, Lloyd's algorithm |
