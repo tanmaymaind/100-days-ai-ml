@@ -17,3 +17,4 @@ matplotlib, and scikit-learn along the way.
 |-----|---------|-------|
 | 01 | [Linear Regression from Scratch](day-01-linear-regression-from-scratch/) ✅ | Supervised learning, gradient descent |
 | 02 | [K-Means Clustering from Scratch](day-02-kmeans-clustering-from-scratch/) ✅ | Unsupervised learning, Lloyd's algorithm |
+| 03 | [Naive Bayes Text Classifier from Scratch](day-03-naive-bayes-text-classifier/) ✅ | NLP basics, Bayes' rule, Laplace smoothing |
