@@ -22,3 +22,4 @@ matplotlib, and scikit-learn along the way.
 | 05 | [Logistic Regression from Scratch](day-05-logistic-regression-from-scratch/) ✅ | Supervised learning, classification, sigmoid & log loss |
 | 06 | [Hypothesis Testing: A/B Testing from Scratch](day-06-hypothesis-testing-ab-test/) ✅ | Statistics, p-values, permutation test, effect size |
 | 07 | [Sobel Edge Detection from Scratch](day-07-sobel-edge-detection/) ✅ | Computer vision basics, convolution, gradient magnitude & direction |
+| 08 | [Decision Tree Classifier from Scratch](day-08-decision-tree-from-scratch/) ✅ | Supervised learning, Gini impurity, recursive splitting, overfitting |
