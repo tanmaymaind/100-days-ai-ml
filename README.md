@@ -25,3 +25,4 @@ matplotlib, and scikit-learn along the way.
 | 08 | [Decision Tree Classifier from Scratch](day-08-decision-tree-from-scratch/) ✅ | Supervised learning, Gini impurity, recursive splitting, overfitting |
 | 09 | [Multi-Layer Perceptron (MLP) from Scratch](day-09-mlp-from-scratch/) ✅ | Deep learning basics, backpropagation, tanh/sigmoid, hidden-layer width |
 | 10 | [Exploratory Data Analysis: Student Performance](day-10-eda-student-performance/) ✅ | Data visualisation/EDA, distributions, correlation, outliers |
+| 11 | [Random Forest Classifier from Scratch](day-11-random-forest-from-scratch/) ✅ | Supervised learning, ensemble, bagging, OOB error |
