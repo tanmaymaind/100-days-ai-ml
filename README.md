@@ -24,3 +24,4 @@ matplotlib, and scikit-learn along the way.
 | 07 | [Sobel Edge Detection from Scratch](day-07-sobel-edge-detection/) ✅ | Computer vision basics, convolution, gradient magnitude & direction |
 | 08 | [Decision Tree Classifier from Scratch](day-08-decision-tree-from-scratch/) ✅ | Supervised learning, Gini impurity, recursive splitting, overfitting |
 | 09 | [Multi-Layer Perceptron (MLP) from Scratch](day-09-mlp-from-scratch/) ✅ | Deep learning basics, backpropagation, tanh/sigmoid, hidden-layer width |
+| 10 | [Exploratory Data Analysis: Student Performance](day-10-eda-student-performance/) ✅ | Data visualisation/EDA, distributions, correlation, outliers |
