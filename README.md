@@ -26,3 +26,4 @@ matplotlib, and scikit-learn along the way.
 | 09 | [Multi-Layer Perceptron (MLP) from Scratch](day-09-mlp-from-scratch/) ✅ | Deep learning basics, backpropagation, tanh/sigmoid, hidden-layer width |
 | 10 | [Exploratory Data Analysis: Student Performance](day-10-eda-student-performance/) ✅ | Data visualisation/EDA, distributions, correlation, outliers |
 | 11 | [Random Forest Classifier from Scratch](day-11-random-forest-from-scratch/) ✅ | Supervised learning, ensemble, bagging, OOB error |
+| 12 | [TF-IDF Document Search from Scratch](day-12-tfidf-document-search/) ✅ | NLP basics, TF-IDF, cosine similarity, ranking |
